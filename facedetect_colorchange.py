@@ -19,7 +19,7 @@ def detect(img, cascade):
 
 def draw_rects(img, rects, color):
     for x1, y1, x2, y2 in rects:
-        cv2.rectangle(img, (x1, y1), (x2, y2), color,4 )
+        cv2.rectangle(img, (x1, y1), (x2, y2), color,2 )
 
 if __name__ == '__main__':
     import sys, getopt
