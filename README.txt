@@ -14,3 +14,4 @@ Github: @mhuimie(Ao Li
 Opencv version 3.1
 python version 2.7
 Source code: https://github.com/opencv/opencv/tree/master/samples/python/facedetect.py
+we change the program inputs by searching for key words like 'color' and 'size' and 'rectangle'.
