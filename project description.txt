@@ -1,0 +1,5 @@
+Use the facedetect.py example
+Originally, the program detect human's faces and mark them with green rectangles.
+It also detect human's eyes and mark them with blue rectangles.
+We change the RGB parameters to change the colors of those rectangles.
+We also change the parameters of the rectangles to change the size of the lines.
